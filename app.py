@@ -9,7 +9,7 @@ import streamlit.components.v1 as components
 import codecs
 import pandas as pd
 import numpy as np
-from gurobipy import *
+from mypulp import *
 import os
 
 
